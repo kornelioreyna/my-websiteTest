@@ -5,5 +5,5 @@ Just adding a new line remotely
 ## New section from branch 2
 Im adding this just for test
 
-HEAD
-Removed section
+## Section 3
+__ Adding a new Section __ to the file
