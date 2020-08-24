@@ -5,6 +5,4 @@ Just adding a new line remotely
 ## New section from branch 2
 Im adding this just for test
 
-## New section from branch 3
-Im adding this just for testing again
-
+Removed section
