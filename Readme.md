@@ -6,8 +6,4 @@ Just adding a new line remotely
 Im adding this just for test
 
 ## Section 3
-<<<<<<< HEAD
-__ Adding a new Section __ to the file
-=======
-Updating a new Section to the file
->>>>>>> temprepo
+Updating a new Section to the file- Addition
