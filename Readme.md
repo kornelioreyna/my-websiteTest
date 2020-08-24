@@ -7,4 +7,3 @@ Im adding this just for test
 
 ## New section from branch 3
 Im adding this just for testing again
-
