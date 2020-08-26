@@ -4,10 +4,5 @@ Just adding a new line remotely
 
 ## New section from branch 2
 Im adding this just for test
-
-## Section 3
-<<<<<<< HEAD
-__ Adding a new Section __ to the file
-=======
-Updating a new Section to the file
->>>>>>> temprepo
+## Getting started
+Good
